@@ -2,8 +2,9 @@
     {
         "ad_title": "Blåbär",
         "profile": "nara",
-        "layout": "veckans_pris",
+        "layout": "veckans kortpris",
         "promotion_image": "blabar.png",
+        "promotion_banner": "maner.png",
         "promotion_unit": "29",
         "promotion_sub_unit": "90",
         "article_unit_of_measurement": "st",

@@ -8,3 +8,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+@font-face {
+  font-family: ICARubrikBold;
+  src: url(http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd);
+}
+
+
+@font-face {
+  font-family: ICATextWebRegular;
+  src: url(http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd);
+}

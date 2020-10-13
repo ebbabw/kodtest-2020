@@ -15,7 +15,7 @@ export const Application = () => {
     <div>
 
         {data.map((item) => (
-        <section>
+        <section  key={item.article_name}>
         
         <div className="section-wrapper" >
 

@@ -42,27 +42,6 @@ section {
 
 }
 
-@media only screen and (max-width: 600px) {
-
-    .section-wrapper {
-        width: 80%;
-    }
-
-    .banner {
-        
-    height: 400px;
-    
-    }
-
-    .banner-title {
-
-        position: absolute;
-        justify-content: center;
-        margin-left: 20px;
-    }
-
-  }
-
 
 .banner-title {
 
@@ -226,3 +205,24 @@ p {
     font-size: 13px;
 
 }
+
+@media only screen and (max-width: 600px) {
+
+    .section-wrapper {
+        width: 80%;
+    }
+
+    .banner {
+        
+    height: 400px;
+    
+    }
+
+    .banner-title {
+
+        position: absolute;
+        justify-content: center;
+        margin-left: 20px;
+    }
+
+  }

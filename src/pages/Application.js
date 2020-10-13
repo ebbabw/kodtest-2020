@@ -5,6 +5,7 @@ import data from '../data/data.json'
 import '../css/App.css'
 
 
+
 export const Application = () => {
 
   
@@ -27,7 +28,7 @@ export const Application = () => {
         
         <div className="product">
         <div className="product-wrapper">
-        <img className="img-2" src={`/assets/${item.promotion_image}`} alt='blabar'/>
+        <img className="img-2" src={`./assets/${item.promotion_image}`} alt='blabar'/>
         </div>
         </div>
 
